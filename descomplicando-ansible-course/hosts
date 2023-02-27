@@ -1,0 +1,6 @@
+spartan01
+
+[all:vars]
+ansible_connection=ssh
+ansible_user=<hostname>
+ansible_become_pass=<password>
